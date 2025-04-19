@@ -1,0 +1,11 @@
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.pdf
+*.log
+.venv/
+venv/
+env/
+.DS_Store
+Uploaded_Resumes/
